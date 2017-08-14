@@ -26,8 +26,8 @@
 
  完成的页面样式如下：
 
- !()[https://github.com/byhieg/easyweather_ReactJS/blob/master/image_github/1.jpg]
+ ![](https://github.com/byhieg/easyweather_ReactJS/blob/master/image_github/1.jpg)
 
- !()[https://github.com/byhieg/easyweather_ReactJS/blob/master/image_github/2.jpg]
+ ![](https://github.com/byhieg/easyweather_ReactJS/blob/master/image_github/2.jpg)
 
- !()[https://github.com/byhieg/easyweather_ReactJS/blob/master/image_github/3.jpg]
+ ![](https://github.com/byhieg/easyweather_ReactJS/blob/master/image_github/3.jpg)
